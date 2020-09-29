@@ -71,6 +71,5 @@ describe Card do
       end
     end
   end
-
 end
 
